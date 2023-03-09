@@ -1,3 +1,7 @@
 este es un archivo para probar git
 // esta linea fue modificada en github
+<<<<<<< HEAD
 // linea creada en copia local
+=======
+// esta linea fue creada en github
+>>>>>>> 0617271a6d1b08d8c3839902e8da2ac969793fca
