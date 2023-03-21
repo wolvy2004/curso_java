@@ -1,0 +1,5 @@
+galletitas mana	350	2
+fideos mostachol	250	5
+yerba pipore	1200	1
+jabon de tocador	410	3
+jabon en polvo	1700	2
